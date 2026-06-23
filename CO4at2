@@ -51,7 +51,6 @@ int main() {
 }
 
 
-
 Output:
 4 5
 0 1 10
